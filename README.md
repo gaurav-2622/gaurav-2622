@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar Singh</h1>
-<h3 align="center">Android Enthusiast | 3rd Year @ IIITS | Leading Sponsorship @ECell IIIT SONEPAT</h3>
+<h3 align="center">Android Enthusiast | 4th Year @ IIITS | Leading Sponsorship @ECell IIIT SONEPAT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-2622&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-2622" /> </p>
 
